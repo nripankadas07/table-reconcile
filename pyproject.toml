@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "table-reconcile"
+version = "0.1.0"
+description = "Keyed CSV reconciliation with exact decimal tolerances and duplicate-key errors."
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Nripanka Das"}]
+dependencies = []
+
+[project.scripts]
+table-reconcile = "table_reconcile:main"
+
+[tool.setuptools]
+py-modules = ["table_reconcile"]

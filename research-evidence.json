@@ -1,0 +1,138 @@
+{
+  "query": {
+    "query": "csv diff in:description",
+    "url": "https://api.github.com/search/repositories?q=csv+diff+in%3Adescription&sort=stars&order=desc&per_page=10",
+    "observed_utc": "2026-10-04T12:43:43.503764+00:00",
+    "total": 359,
+    "results": [
+      {
+        "repo": "cirosantilli/china-dictatorship",
+        "stars": 3248,
+        "url": "https://github.com/cirosantilli/china-dictatorship"
+      },
+      {
+        "repo": "trailofbits/graphtage",
+        "stars": 2488,
+        "url": "https://github.com/trailofbits/graphtage"
+      },
+      {
+        "repo": "gege-circle/.github",
+        "stars": 2033,
+        "url": "https://github.com/gege-circle/.github"
+      },
+      {
+        "repo": "aswinkarthik/csvdiff",
+        "stars": 590,
+        "url": "https://github.com/aswinkarthik/csvdiff"
+      },
+      {
+        "repo": "cirosantilli/china-dictatroship-7",
+        "stars": 369,
+        "url": "https://github.com/cirosantilli/china-dictatroship-7"
+      },
+      {
+        "repo": "simonw/csv-diff",
+        "stars": 342,
+        "url": "https://github.com/simonw/csv-diff"
+      },
+      {
+        "repo": "Sfedfcv/redesigned-pancake",
+        "stars": 268,
+        "url": "https://github.com/Sfedfcv/redesigned-pancake"
+      },
+      {
+        "repo": "mRFWq7LwNPZjaVv5v6eo/cihna-dictattorshrip-8",
+        "stars": 210,
+        "url": "https://github.com/mRFWq7LwNPZjaVv5v6eo/cihna-dictattorshrip-8"
+      },
+      {
+        "repo": "panbinibn/OpenPacketFix_",
+        "stars": 202,
+        "url": "https://github.com/panbinibn/OpenPacketFix_"
+      },
+      {
+        "repo": "larsyencken/csvdiff",
+        "stars": 131,
+        "url": "https://github.com/larsyencken/csvdiff"
+      }
+    ]
+  },
+  "comparables": [
+    {
+      "repository": "paulfitz/daff",
+      "url": "https://github.com/paulfitz/daff",
+      "observed_utc": "2026-10-04T12:36:29.120506+00:00",
+      "stargazers_count": 927,
+      "pushed_at": "2026-05-27T02:55:16Z",
+      "archived": false,
+      "description": "align and compare tables",
+      "default_branch": "master",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      }
+    },
+    {
+      "repository": "capitalone/datacompy",
+      "url": "https://github.com/capitalone/datacompy",
+      "observed_utc": "2026-10-04T12:35:59.118519+00:00",
+      "stargazers_count": 658,
+      "pushed_at": "2026-10-02T17:47:28Z",
+      "archived": false,
+      "description": "Pandas, Polars, Spark, and Snowpark DataFrame comparison for humans and more!",
+      "default_branch": "main",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      }
+    },
+    {
+      "repository": "simonw/csv-diff",
+      "url": "https://github.com/simonw/csv-diff",
+      "observed_utc": "2026-10-04T12:36:08.574235+00:00",
+      "stargazers_count": 342,
+      "pushed_at": "2024-09-06T05:20:04Z",
+      "archived": false,
+      "description": "Python CLI tool and library for diffing CSV and JSON files",
+      "default_branch": "main",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      }
+    }
+  ],
+  "additional_comparable": {
+    "repository": "trailofbits/graphtage",
+    "url": "https://github.com/trailofbits/graphtage",
+    "observed_utc": "2026-10-04T13:03:36.780308+00:00",
+    "stars": 2488,
+    "pushed_at": "2026-09-24T23:12:51Z",
+    "license": "LGPL-3.0",
+    "issues": [
+      {
+        "number": 204,
+        "title": "Bump astral-sh/setup-uv from 10.1.0 to 10.2.0 in the actions group",
+        "url": "https://github.com/trailofbits/graphtage/pull/204"
+      },
+      {
+        "number": 203,
+        "title": "Bump ruff from 0.16.7 to 0.16.8 in the python group",
+        "url": "https://github.com/trailofbits/graphtage/pull/203"
+      },
+      {
+        "number": 190,
+        "title": "Print XML through non-XML formatters without re-parenting",
+        "url": "https://github.com/trailofbits/graphtage/pull/190"
+      }
+    ]
+  }
+}
